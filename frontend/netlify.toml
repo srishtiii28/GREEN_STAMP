@@ -1,0 +1,11 @@
+[build]
+  command = "next build"
+  publish = ".next"
+
+[dev]
+  command = "next dev"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

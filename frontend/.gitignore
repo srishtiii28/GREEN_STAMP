@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env
+*.log
+dist/
+build/
+.DS_Store
+*.local
+coverage/
+.env.*
+*.tsbuildinfo
+.vscode/
+
+backend/venv
+backend/.env
