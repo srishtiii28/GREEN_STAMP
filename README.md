@@ -66,7 +66,7 @@ GreenStamp is an innovative platform that combines artificial intelligence and b
 
 ## Architecture
 
-![Alt text](Architecture.png)
+![Alt text](Architecture.jpg)
 
 ## Getting Started
 
