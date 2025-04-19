@@ -1,0 +1,54 @@
+{
+    "esg": {
+        "scorer": [
+            {
+                "id": 1,
+                "text": "Our company is committed to reducing carbon emissions by 50% by 2030 and has implemented comprehensive waste management systems.",
+                "expected_score": 0.85
+            },
+            {
+                "id": 2,
+                "text": "We have no formal environmental policies and do not track our carbon footprint.",
+                "expected_score": 0.2
+            }
+        ],
+        "classifier": [
+            {
+                "id": 1,
+                "text": "Our company has achieved ISO 14001 certification and maintains a robust environmental management system.",
+                "expected_class": 1
+            },
+            {
+                "id": 2,
+                "text": "We have not conducted any environmental impact assessments in the past 5 years.",
+                "expected_class": 0
+            }
+        ]
+    },
+    "greenwashing": {
+        "detector": [
+            {
+                "id": 1,
+                "text": "Our products are 100% natural and eco-friendly, even though they contain synthetic chemicals.",
+                "expected_class": 1
+            },
+            {
+                "id": 2,
+                "text": "We have achieved carbon neutrality through verified emissions reductions and renewable energy investments.",
+                "expected_class": 0
+            }
+        ],
+        "classifier": [
+            {
+                "id": 1,
+                "text": "Our 'green' products are made from sustainable materials, but we don't disclose the actual environmental impact.",
+                "expected_class": 1
+            },
+            {
+                "id": 2,
+                "text": "We publish annual sustainability reports that are verified by independent auditors.",
+                "expected_class": 0
+            }
+        ]
+    }
+}

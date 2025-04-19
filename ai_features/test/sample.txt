@@ -1,0 +1,85 @@
+Title: EcoNova Inc. Environmental, Social, and Governance (ESG) Report – 2024-2025
+
+Executive Summary:
+EcoNova Inc. is dedicated to embedding sustainability into every aspect of our operations. This ESG report outlines our strategic initiatives, operational performance, and future goals in environmental sustainability, social responsibility, and corporate governance. We believe transparency is essential to build stakeholder trust, and this report reflects our commitment to responsible practices, continuous improvement, and climate-conscious innovation.
+
+Environmental Stewardship:
+
+Climate Action:
+EcoNova has reduced its Scope 1 and 2 greenhouse gas (GHG) emissions by 28% compared to our 2020 baseline. This was achieved through the integration of renewable energy sources, such as solar photovoltaic installations on 60% of our manufacturing facilities, and transitioning 70% of our company fleet to electric vehicles.
+
+We have set a target to achieve net-zero emissions by 2035, aligning with the Science Based Targets initiative (SBTi). In FY2024, we offset 15,000 metric tons of CO₂ through verified reforestation credits and the purchase of Renewable Energy Certificates (RECs).
+
+Sustainable Materials & Waste Reduction:
+EcoNova sourced 82% of its raw materials from certified sustainable sources. Our packaging is now 95% recyclable or compostable, and we are on track to eliminate single-use plastics entirely by 2026.
+
+We generated 12,000 metric tons of solid waste in FY2024, of which 78% was diverted from landfills via recycling and reuse programs. Our circular design model includes take-back programs for 3 product categories, reducing end-of-life waste by over 1,800 tons.
+
+Water Stewardship:
+EcoNova implemented a water reuse system in our largest facility, reducing water withdrawal by 41%. All facilities are now compliant with the Alliance for Water Stewardship (AWS) standards. In water-stressed regions, we have launched rainwater harvesting projects and support local watershed restoration programs.
+
+Biodiversity & Environmental Partnerships:
+We partnered with global NGOs to protect biodiversity hotspots near our operations. Over $2.5 million has been allocated to community-driven conservation and afforestation efforts in the past year. Our supply chain is now 100% deforestation-free, verified by satellite imagery monitoring systems.
+
+Social Responsibility:
+
+Workforce Diversity & Inclusion:
+EcoNova's workforce comprises 51% women, 34% ethnic minorities, and 6% LGBTQ+ representation. In 2024, we increased investments in inclusive hiring, doubling partnerships with community-based training and placement organizations. Our Diversity, Equity & Inclusion (DEI) Taskforce monitors pay equity, promotions, and training opportunities quarterly.
+
+Employee Wellbeing:
+We have adopted a holistic employee wellbeing model. In addition to enhanced health insurance and 16 weeks of paid parental leave, we offer mental health counseling, wellness subsidies, and flexible work options. In the past year, our employee satisfaction score rose to 88%, with a 92% retention rate.
+
+Human Rights & Fair Labor:
+EcoNova adheres to the UN Guiding Principles on Business and Human Rights. All suppliers undergo third-party labor audits and must adhere to our Supplier Code of Conduct. In FY2024, we conducted 110 audits, with 98% passing rates, and we took corrective action for the remaining 2% within 3 months.
+
+Community Engagement:
+We invest 3% of net profits into local development, including STEM education programs, clean water access, and healthcare support. EcoNova employees contributed over 20,000 volunteer hours in 2024. Our Community Innovation Lab funds social enterprises that align with the UN Sustainable Development Goals (SDGs).
+
+Corporate Governance:
+
+Board Oversight & Structure:
+EcoNova’s Board of Directors is composed of 45% women and 30% ethnically diverse members. ESG oversight is embedded in board-level committees, including the Sustainability & Risk Committee, which meets quarterly to assess ESG performance and climate-related risk exposure.
+
+Ethical Conduct & Anti-Corruption:
+We maintain a zero-tolerance policy on bribery and corruption. All employees and suppliers are required to complete annual ethics training. Our whistleblower hotline remains anonymous and recorded no retaliation incidents in 2024.
+
+Data Privacy & Cybersecurity:
+With rising data security concerns, EcoNova has implemented ISO 27001-certified systems across all operations. We experienced no material data breaches in FY2024. A dedicated Cyber Risk Council monitors and mitigates digital threats in real-time, backed by external audits every six months.
+
+Executive Compensation Tied to ESG:
+30% of executive variable compensation is now directly linked to achieving ESG milestones, including emissions reduction, supplier audit compliance, and community impact metrics.
+
+Transparent Reporting:
+This ESG report has been prepared in alignment with the Global Reporting Initiative (GRI), Sustainability Accounting Standards Board (SASB), and the Task Force on Climate-related Financial Disclosures (TCFD) frameworks. All ESG data provided herein has been independently reviewed by a third-party assurance provider.
+
+Carbon Footprint & Emission Breakdown (2024):
+
+Scope 1: 11,800 metric tons CO₂e
+
+Scope 2: 6,400 metric tons CO₂e
+
+Scope 3 (est.): 98,200 metric tons CO₂e
+
+Offset via Verified Carbon Units (VCUs): 15,000 metric tons
+Net Emissions: 101,400 metric tons CO₂e
+
+Looking Ahead:
+
+EcoNova recognizes that ESG excellence is a continuous journey. Our 2025 goals include:
+
+Achieve 85% renewable energy use across all facilities
+
+Roll out real-time carbon accounting dashboards for product lines
+
+Expand biodiversity initiatives to cover 100,000 hectares globally
+
+Publish a climate risk scenario analysis (aligned with TCFD)
+
+Increase supplier audit coverage to 95% of spend base
+
+We remain committed to rigorous ESG performance, stakeholder engagement, and transparent reporting. We welcome investor feedback and invite all stakeholders to explore our ESG portal on our official website.
+
+Signed,
+Sarah K. Venkataraman
+Chief Sustainability Officer
+EcoNova Inc.

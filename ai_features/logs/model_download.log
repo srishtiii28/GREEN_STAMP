@@ -1,0 +1,22 @@
+2025-04-19 17:32:50,345 - __main__ - INFO - Downloading model: srishtiii28/esg-scorer
+2025-04-19 17:32:50,345 - __main__ - ERROR - Error downloading model srishtiii28/esg-scorer: snapshot_download() got an unexpected keyword argument 'model_id'
+2025-04-19 17:34:41,082 - __main__ - INFO - Downloading model: srishtiii28/esg-scorer
+2025-04-19 17:34:42,272 - __main__ - ERROR - Error downloading model srishtiii28/esg-scorer: 404 Client Error. (Request ID: Root=1-6803915a-1f4d82ff35e5e2a277fedcf2;45c5b9aa-69c2-4c95-99ad-abe4874e336c)
+
+Repository Not Found for url: https://huggingface.co/api/models/srishtiii28/esg-scorer/revision/main.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+2025-04-19 17:42:19,749 - __main__ - INFO - Downloading model: srishtiii28/esg-scorer
+2025-04-19 17:42:20,128 - __main__ - ERROR - Error downloading model srishtiii28/esg-scorer: 404 Client Error. (Request ID: Root=1-68039324-769b999f295665ef01cb36fc;369fe980-b5bd-4c89-b19b-fcf34a351f64)
+
+Repository Not Found for url: https://huggingface.co/api/models/srishtiii28/esg-scorer/revision/main.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
+2025-04-19 17:46:47,032 - __main__ - INFO - Downloading model: srishtiii28/esg-scorer
+2025-04-19 17:46:48,649 - __main__ - INFO - Successfully downloaded model to models/esg/esg-scorer
+2025-04-19 17:46:48,649 - __main__ - INFO - Downloading model: srishtiii28/esg-classifier
+2025-04-19 17:46:48,889 - __main__ - ERROR - Error downloading model srishtiii28/esg-classifier: 404 Client Error. (Request ID: Root=1-68039430-27e4e9ba688f78e914556e7a;78c410a4-ba07-4219-a15a-0ed684c6d3e1)
+
+Repository Not Found for url: https://huggingface.co/api/models/srishtiii28/esg-classifier/revision/main.
+Please make sure you specified the correct `repo_id` and `repo_type`.
+If you are trying to access a private or gated repo, make sure you are authenticated. For more details, see https://huggingface.co/docs/huggingface_hub/authentication
